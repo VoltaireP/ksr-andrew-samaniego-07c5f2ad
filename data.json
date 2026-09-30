@@ -1,0 +1,179 @@
+{
+  "alarms": [],
+  "client": "andrew-samaniego",
+  "currency": "USD",
+  "daily": [],
+  "display_name": "Andrew Samaniego",
+  "generated_at": "2026-09-30T02:48:16.506218-07:00",
+  "headline": [
+    {
+      "format": "money",
+      "key": "spend",
+      "label": "Ad spend",
+      "prior": 238.43,
+      "trend": [
+        244.23,
+        241.64,
+        250.95,
+        239.98,
+        243.0,
+        247.47,
+        238.43,
+        249.89
+      ],
+      "value": 249.89
+    },
+    {
+      "format": "int",
+      "key": "pixel_leads",
+      "label": "Pixel leads",
+      "prior": 93,
+      "trend": [
+        84,
+        90,
+        96,
+        83,
+        98,
+        82,
+        93,
+        86
+      ],
+      "value": 86
+    },
+    {
+      "format": "money",
+      "key": "cpl",
+      "label": "Cost per lead (Meta)",
+      "prior": 2.56,
+      "trend": [
+        2.91,
+        2.68,
+        2.61,
+        2.89,
+        2.48,
+        3.02,
+        2.56,
+        2.91
+      ],
+      "value": 2.91
+    }
+  ],
+  "insight": null,
+  "labels": {},
+  "metrics": {
+    "appointments_booked": 0,
+    "appointments_showed": 0,
+    "cost_per_message": null,
+    "cpl": 2.91,
+    "crm_leads": 0,
+    "crm_leads_raw": 0,
+    "ctr": 0.028198,
+    "google_conversions": 0,
+    "google_spend": 0,
+    "impressions": 7341,
+    "landing_page_views": 194,
+    "link_clicks": 207,
+    "messages": 0,
+    "meta_spend": 249.89,
+    "pixel_leads": 86,
+    "reach": 4746,
+    "spend": 249.89,
+    "tiktok_leads": 0,
+    "tiktok_spend": 0
+  },
+  "segment_label": "segment",
+  "segments": [],
+  "top_ads": [
+    {
+      "ad_name": "DCT -IMG-2026 IMG-LEARN",
+      "campaign_name": "[REL 4.14.26]  - KS-COLD-CRUSH IRS ANXIETY (Andrew S)-LEADS-CBO",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 80,
+      "spend": 214.65
+    },
+    {
+      "ad_name": "DCT 8-IMG-New Ads+ Revised Copy-LEARN",
+      "campaign_name": "[REL 4.14.26]  - KS-COLD-CRUSH IRS ANXIETY (Andrew S)-LEADS-CBO",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 6,
+      "spend": 35.24
+    }
+  ],
+  "unavailable": [
+    "crm_leads",
+    "crm_leads_raw",
+    "appointments_booked",
+    "appointments_showed",
+    "tiktok_spend",
+    "tiktok_leads",
+    "google_spend",
+    "google_conversions"
+  ],
+  "verification": {
+    "checks": [
+      {
+        "detail": "weekly window has 7 day(s)",
+        "name": "window_span",
+        "ok": true
+      },
+      {
+        "detail": "meta 249.89, google 0.00, tiktok 0.00, total 249.89",
+        "name": "spend",
+        "ok": true
+      },
+      {
+        "detail": "non-spend aggregate metrics match raw rows",
+        "name": "raw_metrics",
+        "ok": true
+      },
+      {
+        "detail": "raw 0, counted 0",
+        "name": "crm_leads",
+        "ok": true
+      },
+      {
+        "detail": "expected 2.91, got 2.91",
+        "name": "cpl",
+        "ok": true
+      },
+      {
+        "detail": "segment totals do not exceed report totals",
+        "name": "segments_additive",
+        "ok": true
+      },
+      {
+        "detail": "segments cover report totals",
+        "name": "segments_coverage",
+        "ok": true
+      },
+      {
+        "detail": "all headline trends have eight matching points",
+        "name": "headline_trends",
+        "ok": true
+      },
+      {
+        "detail": "raw rows by date: 2026-09-18=1; report has no daily audit rows",
+        "name": "raw_rows_covered",
+        "ok": true
+      },
+      {
+        "detail": "report keys and values match the allowlist",
+        "name": "schema_allowlist",
+        "ok": true
+      },
+      {
+        "detail": "meta pixel leads 86.00, CRM leads 0",
+        "name": "tracking_drift",
+        "ok": true
+      }
+    ],
+    "status": "pass"
+  },
+  "window": {
+    "end": "2026-09-24",
+    "label": "Sep 18 to Sep 24",
+    "start": "2026-09-18"
+  }
+}
