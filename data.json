@@ -1,10 +1,36 @@
 {
+  "actions": [
+    "Built a new ad set on Sep 18 (California, ages 25 to 65 and up, Meta's automatic audience expansion off) with a new image ad. The ad passed review; the ad set is switched off for now.",
+    "Three new images added to the ad library and edited on Sep 18.",
+    "No budget changes this week."
+  ],
   "alarms": [],
+  "campaigns": [
+    {
+      "campaign_name": "[REL 4.14.26]  - KS-COLD-CRUSH IRS ANXIETY (Andrew S)-LEADS-CBO",
+      "cost_per_lpv": 1.29,
+      "cost_per_result": 2.91,
+      "cpc": 1.21,
+      "cpm": 34.04,
+      "impressions": 7341,
+      "landing_page_views": 194,
+      "link_clicks": 207,
+      "messages": 0,
+      "pixel_leads": 86,
+      "platform": "Meta",
+      "reach": 4746,
+      "result_type": "Website leads",
+      "results": 86.0,
+      "spend": 249.89,
+      "unique_outbound_clicks": 0,
+      "uo_ctr": null
+    }
+  ],
   "client": "andrew-samaniego",
   "currency": "USD",
   "daily": [],
   "display_name": "Andrew Samaniego",
-  "generated_at": "2026-09-30T02:48:16.506218-07:00",
+  "generated_at": "2026-10-01T22:48:14.384603-07:00",
   "headline": [
     {
       "format": "money",
@@ -60,7 +86,7 @@
   ],
   "insight": null,
   "insights": {
-    "creative": "The guide offer framed as a fight (you are in a war and only one side knows the rules) with the list of mistakes taxpayers make is carrying the account. The softer revised copy costs more per lead so far. Next we will test a short video walking through those common mistakes.",
+    "creative": "The war ad brought 80 of the 86 guide requests. The image opens 'If you've got unfiled returns or IRS debt, you're not just behind on paperwork. You're in a war, and only one side knows the rules,' lists three taxpayer mistakes and offers the free IRS Battle Plan guide. The revised image opens softer, 'IRS problems don't usually go away on their own,' at about twice the cost per lead. Next we will test a short video of the three mistakes in the same blunt voice, which is what pulls.",
     "doing": "86 people requested the free IRS guide this week at $2.91 each, compared with 93 at $2.56 the week before, on $249.89 of spend. Both numbers sit inside the range the account has held for the past two months.",
     "look_into": "The report sees only Meta's lead count, so it cannot show how many of the 86 booked a call or became clients. We recommend sharing that count so it can be tracked here. Nothing in the account's change history this week looks out of place.",
     "next": "A new ad with revised copy started on Sep 18 and brought 6 leads on $35.24, a higher cost per lead than the main ad so far. Next we will give it a full week, then keep whichever ad delivers leads at the lower cost, and hold the budget steady."
@@ -87,23 +113,52 @@
     "tiktok_leads": 0,
     "tiktok_spend": 0
   },
+  "prior_metrics": {
+    "appointments_booked": 0,
+    "appointments_showed": 0,
+    "cost_per_message": null,
+    "cpl": 2.56,
+    "crm_leads": 0,
+    "crm_leads_raw": 0,
+    "ctr": 0.025259,
+    "google_conversions": 0,
+    "google_spend": 0,
+    "impressions": 7245,
+    "landing_page_views": 167,
+    "link_clicks": 183,
+    "messages": 0,
+    "meta_spend": 238.43,
+    "pixel_leads": 93,
+    "reach": 4890,
+    "spend": 238.43,
+    "tiktok_leads": 0,
+    "tiktok_spend": 0
+  },
   "segment_label": "segment",
   "segments": [],
   "top_ads": [
     {
       "ad_name": "DCT -IMG-2026 IMG-LEARN",
       "campaign_name": "[REL 4.14.26]  - KS-COLD-CRUSH IRS ANXIETY (Andrew S)-LEADS-CBO",
+      "cost_per_result": 2.68,
       "crm_leads": null,
+      "hook": "Image. 'If you've got unfiled returns or IRS debt, you're in a war, and only one side knows the rules.' Three taxpayer mistakes. Free IRS Battle Plan guide.",
+      "link_clicks": 189,
       "messages": 0,
       "pixel_leads": 80,
+      "preview_url": "https://fb.me/yO1RvQ5SkPsoUbi",
       "spend": 214.65
     },
     {
       "ad_name": "DCT 8-IMG-New Ads+ Revised Copy-LEARN",
       "campaign_name": "[REL 4.14.26]  - KS-COLD-CRUSH IRS ANXIETY (Andrew S)-LEADS-CBO",
+      "cost_per_result": 5.87,
       "crm_leads": null,
+      "hook": "Image. 'IRS problems don't usually go away on their own.' Softer tone, lists what IRS collection can do, same free IRS Battle Plan guide.",
+      "link_clicks": 18,
       "messages": 0,
       "pixel_leads": 6,
+      "preview_url": "https://fb.me/23bw9XkTWyxI1Bt",
       "spend": 35.24
     }
   ],
