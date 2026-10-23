@@ -1,48 +1,45 @@
 {
   "actions": [
-    "Launched a new campaign for military families, Hold the Line, offering a free tax field manual, with two new image ads: a book mock up ad and a headshot ad.",
-    "Turned off the headshot ad set in the new campaign and kept it on deck. The book mock up ad set is running.",
-    "Set the new ad sets to target California, ages 25 to 65+ for the headshot ad set and 18 to 65+ for the book mock up ad set.",
-    "Lowered the main IRS campaign budget from $32 a day to $16 a day.",
-    "Edited the June control GIF ad, which went inactive after ad review."
+    "Oct 21: launched a new ad set, Proving Ground Winner Ads, with a new control image ad that uses the military field manual copy. It passed review and started delivering.",
+    "Oct 21: set the new ad set to target California, ages 25 to 65+, with automatic audience expansion off."
   ],
   "alarms": [],
   "campaigns": [
     {
-      "campaign_name": "[REL 4.14.26]  - KS-COLD-CRUSH IRS ANXIETY (Andrew S)-LEADS-CBO",
-      "cost_per_lpv": 1.19,
-      "cost_per_result": 2.58,
-      "cpc": 1.08,
-      "cpm": 35.87,
-      "impressions": 5255,
-      "landing_page_views": 158,
-      "link_clicks": 175,
+      "campaign_name": "KS-COLD-HOLD THE LINE-LEADS-CBO",
+      "cost_per_lpv": 1.71,
+      "cost_per_result": 3.96,
+      "cpc": 1.42,
+      "cpm": 50.31,
+      "impressions": 2283,
+      "landing_page_views": 67,
+      "link_clicks": 81,
       "messages": 0,
-      "pixel_leads": 73,
+      "pixel_leads": 29,
       "platform": "Meta",
-      "reach": 3337,
+      "reach": 1193,
       "result_type": "Website leads",
-      "results": 73.0,
-      "spend": 188.49,
+      "results": 29.0,
+      "spend": 114.85,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
     {
-      "campaign_name": "KS-COLD-HOLD THE LINE-LEADS-CBO",
-      "cost_per_lpv": 1.9,
-      "cost_per_result": 2.91,
-      "cpc": 1.56,
-      "cpm": 38.79,
-      "impressions": 1126,
-      "landing_page_views": 23,
-      "link_clicks": 28,
+      "campaign_name": "[REL 4.14.26]  - KS-COLD-CRUSH IRS ANXIETY (Andrew S)-LEADS-CBO",
+      "cost_per_lpv": 1.33,
+      "cost_per_result": 2.66,
+      "cpc": 1.21,
+      "cpm": 37.83,
+      "impressions": 3019,
+      "landing_page_views": 86,
+      "link_clicks": 94,
       "messages": 0,
-      "pixel_leads": 15,
+      "pixel_leads": 43,
       "platform": "Meta",
-      "reach": 632,
+      "reach": 1954,
       "result_type": "Website leads",
-      "results": 15.0,
-      "spend": 43.68,
+      "results": 43.0,
+      "spend": 114.21,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     }
@@ -51,90 +48,90 @@
   "currency": "USD",
   "daily": [],
   "display_name": "Andrew Samaniego",
-  "generated_at": "2026-10-16T05:15:18.178275-07:00",
+  "generated_at": "2026-10-23T05:15:18.916601-07:00",
   "headline": [
     {
       "format": "money",
       "key": "spend",
       "label": "Ad spend",
-      "prior": 223.9,
+      "prior": 232.39,
       "trend": [
-        239.98,
         243.0,
         247.47,
         238.43,
         249.89,
         248.05,
         223.9,
-        232.17
+        232.39,
+        229.06
       ],
-      "value": 232.17
+      "value": 229.06
     },
     {
       "format": "int",
       "key": "pixel_leads",
       "label": "Pixel leads",
-      "prior": 65,
+      "prior": 88,
       "trend": [
-        83,
         98,
         82,
         93,
         86,
         102,
         65,
-        88
+        88,
+        72
       ],
-      "value": 88
+      "value": 72
     },
     {
       "format": "money",
       "key": "cpl",
       "label": "Cost per lead (Meta)",
-      "prior": 3.44,
+      "prior": 2.64,
       "trend": [
-        2.89,
         2.48,
         3.02,
         2.56,
         2.91,
         2.43,
         3.44,
-        2.64
+        2.64,
+        3.18
       ],
-      "value": 2.64
+      "value": 3.18
     }
   ],
   "insight": null,
   "insights": {
-    "creative": "The war image ad brought 39 leads at $2.56. It opens 'If you've got unfiled tax returns or IRS debt... You're in a war' and offers the free IRS Battle Plan guide. The revised image ad opens softer, 'IRS problems don't usually go away on their own,' and brought 18 at $1.72. The new military image ad shows the Hold the Line book as a free field manual: 15 at $2.91. We recommend testing the war opening written for military families, since that opening still draws the most leads.",
-    "doing": "Meta counted 88 leads this week, up from 65 the week before, and cost per lead fell to $2.64 from $3.44. Ad spend was $232.17, close to $223.90 the week before.",
-    "look_into": "There is no CRM feed yet, so we cannot see how many guide downloads turn into booked calls. Also worth a check: the June control GIF ad went inactive after an ad review on Oct 13, which may mean it was rejected.",
-    "next": "We recommend giving the new military campaign a full week before judging it. Its first days brought 15 leads at $2.91 each, close to $2.58 for the main IRS campaign."
+    "creative": "The military book image ad brought 24 leads at $4.23. It shows the Hold the Line book, opens 'Military families are trained to prepare for deployments' and offers a free tax field manual. The war image ad brought 19 at $1.85 with 'If you've got unfiled tax returns or IRS debt... You're in a war' and the free IRS guide. The 'IRS problems don't usually go away on their own' image brought 10 at $2.71. We recommend testing the war opening on the military guide, since it draws the cheapest leads.",
+    "doing": "Meta counted 72 leads this week, down from 88 the week before, and cost per lead rose to $3.18 from $2.64. Ad spend held steady at $229.06 against $232.39.",
+    "look_into": "The military campaign took half the spend, $114.85, and brought 29 leads at $3.96 each, while the main IRS campaign brought 43 at $2.66 on $114.21. There is still no CRM feed, so we cannot see which leads book calls.",
+    "next": "We recommend giving the ad set launched Oct 21 a full week, then testing a move of budget toward the main IRS campaign, which is bringing leads at $2.66 against $3.96 for the military campaign."
   },
   "labels": {},
   "metrics": {
     "appointments_booked": 0,
     "appointments_showed": 0,
     "cost_per_message": null,
-    "cpl": 2.64,
+    "cpl": 3.18,
     "crm_leads": 0,
     "crm_leads_raw": 0,
-    "ctr": 0.031813,
+    "ctr": 0.033006,
     "google_conversions": 0,
     "google_spend": 0,
-    "impressions": 6381,
-    "landing_page_views": 181,
-    "link_clicks": 203,
+    "impressions": 5302,
+    "landing_page_views": 153,
+    "link_clicks": 175,
     "messages": 0,
-    "meta_spend": 232.17,
+    "meta_spend": 229.06,
     "odoo_leads": 0,
     "odoo_order_value": 0,
     "odoo_orders": 0,
     "odoo_won": 0,
-    "pixel_leads": 88,
-    "reach": 3969,
-    "spend": 232.17,
+    "pixel_leads": 72,
+    "reach": 3147,
+    "spend": 229.06,
     "tiktok_leads": 0,
     "tiktok_spend": 0
   },
@@ -142,24 +139,24 @@
     "appointments_booked": 0,
     "appointments_showed": 0,
     "cost_per_message": null,
-    "cpl": 3.44,
+    "cpl": 2.64,
     "crm_leads": 0,
     "crm_leads_raw": 0,
-    "ctr": 0.026602,
+    "ctr": 0.031778,
     "google_conversions": 0,
     "google_spend": 0,
-    "impressions": 5526,
-    "landing_page_views": 137,
-    "link_clicks": 147,
+    "impressions": 6388,
+    "landing_page_views": 181,
+    "link_clicks": 203,
     "messages": 0,
-    "meta_spend": 223.9,
+    "meta_spend": 232.39,
     "odoo_leads": 0,
     "odoo_order_value": 0,
     "odoo_orders": 0,
     "odoo_won": 0,
-    "pixel_leads": 65,
-    "reach": 3508,
-    "spend": 223.9,
+    "pixel_leads": 88,
+    "reach": 3975,
+    "spend": 232.39,
     "tiktok_leads": 0,
     "tiktok_spend": 0
   },
@@ -168,64 +165,64 @@
   "segments": [],
   "top_ads": [
     {
+      "ad_name": "DCT-IMG-HOLD THE LINE-BOOK MOCK UP-DOWNLOAD",
+      "campaign_name": "KS-COLD-HOLD THE LINE-LEADS-CBO",
+      "cost_per_result": 4.23,
+      "crm_leads": null,
+      "hook": "Image of the book. Opens 'Military families are trained to prepare for deployments,' offers the free Hold the Line tax field manual.",
+      "link_clicks": 72,
+      "messages": 0,
+      "pixel_leads": 24,
+      "preview_url": "https://fb.me/27OD06hH2E6yj9E",
+      "spend": 101.54
+    },
+    {
       "ad_name": "DCT -IMG-2026 IMG-LEARN",
       "campaign_name": "[REL 4.14.26]  - KS-COLD-CRUSH IRS ANXIETY (Andrew S)-LEADS-CBO",
-      "cost_per_result": 2.56,
+      "cost_per_result": 1.85,
       "crm_leads": null,
       "hook": "Image. Opens 'you're not just behind on paperwork. You're in a war.' Offers the free IRS Battle Plan guide.",
-      "link_clicks": 113,
+      "link_clicks": 35,
       "messages": 0,
-      "pixel_leads": 39,
-      "preview_url": "https://fb.me/1TqkvDTWokNbFi8",
-      "spend": 99.76
+      "pixel_leads": 19,
+      "preview_url": "https://fb.me/29e7DgXWNlrKW9q",
+      "spend": 35.17
     },
     {
       "ad_name": "DCT 8-IMG-New Ads+ Revised Copy-LEARN",
       "campaign_name": "[REL 4.14.26]  - KS-COLD-CRUSH IRS ANXIETY (Andrew S)-LEADS-CBO",
-      "cost_per_result": 1.72,
+      "cost_per_result": 2.71,
       "crm_leads": null,
       "hook": "Image. Opens 'IRS problems don't usually go away on their own.' Offers the free IRS Battle Plan guide.",
-      "link_clicks": 30,
+      "link_clicks": 27,
       "messages": 0,
-      "pixel_leads": 18,
-      "preview_url": "https://fb.me/2160F9i99dKHZTB",
-      "spend": 30.96
-    },
-    {
-      "ad_name": "DCT-IMG-HOLD THE LINE-BOOK MOCK UP-DOWNLOAD",
-      "campaign_name": "KS-COLD-HOLD THE LINE-LEADS-CBO",
-      "cost_per_result": 2.91,
-      "crm_leads": null,
-      "hook": "Image of the book. Opens 'Military families are trained to prepare for deployments,' offers the free Hold the Line tax field manual.",
-      "link_clicks": 28,
-      "messages": 0,
-      "pixel_leads": 15,
-      "preview_url": "https://fb.me/1W4uvv94cEBbLj3",
-      "spend": 43.68
+      "pixel_leads": 10,
+      "preview_url": "https://fb.me/1RE0bg8ssfFykiC",
+      "spend": 27.11
     },
     {
       "ad_name": "DCT-IMG Sept- LEARN",
       "campaign_name": "[REL 4.14.26]  - KS-COLD-CRUSH IRS ANXIETY (Andrew S)-LEADS-CBO",
-      "cost_per_result": 3.19,
+      "cost_per_result": 3.34,
       "crm_leads": null,
       "hook": "Image. Opens 'IRS problems don't usually go away on their own.' Offers the free IRS Battle Plan guide.",
-      "link_clicks": 17,
+      "link_clicks": 14,
       "messages": 0,
-      "pixel_leads": 9,
-      "preview_url": "https://fb.me/27NSuLgtUf43GP7",
-      "spend": 28.68
+      "pixel_leads": 8,
+      "preview_url": "https://fb.me/1Uh7XeaQ4NLEcYf",
+      "spend": 26.69
     },
     {
-      "ad_name": "10.01.26-Control Ad -IMG-EP 122220727940301642-LEARN",
-      "campaign_name": "[REL 4.14.26]  - KS-COLD-CRUSH IRS ANXIETY (Andrew S)-LEADS-CBO",
-      "cost_per_result": 0.99,
+      "ad_name": "CONTROL- IMG- EP 122223655400301642- DOWNLOAD",
+      "campaign_name": "KS-COLD-HOLD THE LINE-LEADS-CBO",
+      "cost_per_result": 2.66,
       "crm_leads": null,
-      "hook": "Image. Opens 'IRS problems don't usually go away on their own.' Headline 'Crushed by IRS Debt?' Offers the free IRS Battle Plan guide.",
-      "link_clicks": 6,
+      "hook": "Image. Headline 'Military Families: Get Your FREE Tax Battle Plan.' Opens on deployments and PCS moves, offers the free Hold the Line field manual.",
+      "link_clicks": 9,
       "messages": 0,
-      "pixel_leads": 4,
-      "preview_url": "https://fb.me/23XY9xTBT5D6KbK",
-      "spend": 3.96
+      "pixel_leads": 5,
+      "preview_url": "https://fb.me/2qejZgpilHciseJ",
+      "spend": 13.31
     }
   ],
   "unavailable": [
@@ -250,7 +247,7 @@
         "ok": true
       },
       {
-        "detail": "meta 232.17, google 0.00, tiktok 0.00, total 232.17",
+        "detail": "meta 229.06, google 0.00, tiktok 0.00, total 229.06",
         "name": "spend",
         "ok": true
       },
@@ -265,7 +262,7 @@
         "ok": true
       },
       {
-        "detail": "expected 2.64, got 2.64",
+        "detail": "expected 3.18, got 3.18",
         "name": "cpl",
         "ok": true
       },
@@ -295,7 +292,7 @@
         "ok": true
       },
       {
-        "detail": "raw rows by date: 2026-10-09=2; report has no daily audit rows",
+        "detail": "raw rows by date: 2026-10-16=2; report has no daily audit rows",
         "name": "raw_rows_covered",
         "ok": true
       },
@@ -310,7 +307,7 @@
         "ok": true
       },
       {
-        "detail": "meta pixel leads 88.00, CRM leads 0",
+        "detail": "meta pixel leads 72.00, CRM leads 0",
         "name": "tracking_drift",
         "ok": true
       }
@@ -318,8 +315,8 @@
     "status": "pass"
   },
   "window": {
-    "end": "2026-10-15",
-    "label": "Oct 9 to Oct 15",
-    "start": "2026-10-09"
+    "end": "2026-10-22",
+    "label": "Oct 16 to Oct 22",
+    "start": "2026-10-16"
   }
 }
